@@ -1,4 +1,5 @@
 # FlutterBy's Snake. [2006]
+![Screenshot](https://raw.githubusercontent.com/rajgopalv/Snake/master/ScreenShots/5.%20Twisted%20Gameplay.png)
 
 First ever game written by me. This is a modified version of the C code written in 2005. This version was created to fit into the "Digital Diary" (an OOP project) project done in 2006. I do not have any copies of the original version (lost during a harddisk crash). All i am able to remember is the entire game was written in one big fat `main()` function.
 
